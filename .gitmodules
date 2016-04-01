@@ -1,3 +1,3 @@
 [submodule "NominatimUI"]
 	path = NominatimUI
-	url = git@github.com:slummock/NominatimUI.git
+	url = https://github.com/slummock/NominatimUI
