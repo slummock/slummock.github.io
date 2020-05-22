@@ -1,4 +1,4 @@
-[submodule "NATO-Phonetic"]
+
+[submodule "nato-phonetic-tester"]
 	path = nato-phonetic-tester
 	url = https://github.com/slummock/nato-phonetic-tester
-
