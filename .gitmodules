@@ -1,7 +1,3 @@
-[submodule "NominatimUI"]
-	path = NominatimUI
-	url = https://github.com/slummock/NominatimUI
-
 [submodule "NATO-Phonetic"]
 	path = nato-phonetic-tester
 	url = https://github.com/slummock/nato-phonetic-tester
