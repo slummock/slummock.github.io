@@ -2,3 +2,6 @@
 [submodule "nato-phonetic-tester"]
 	path = nato-phonetic-tester
 	url = https://github.com/slummock/nato-phonetic-tester
+[submodule "ramblings"]
+	path = ramblings
+	url = git@github.com:slummock/ramblings.git
